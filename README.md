@@ -22,8 +22,8 @@
 </div>
 
 * <img alt="GIF" src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/Developer.gif" width="25" /> &nbsp; I am a Product Engineer at TCS. My skills at work include Java, SpringBoot, Angular.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/College.gif" width="25" />&nbsp;&nbsp; I am a 2022 Batch Electronics and Communication Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).<br>
-* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I am a Fullstack Java Developer. I am designing and developing end-to-end dynamic and responsive web-applications within the manufacturing domain for diverse Small and Medium-sized Businesses (SMBs) using SpringBoot,Angular,Java.<br>
+* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/College.gif" width="25" />&nbsp;&nbsp; I am a 2022 Batch, Electronics and Communication Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).<br>
+* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I am a Fullstack Java Developer. Designing and developing end-to-end dynamic and responsive web-applications within the manufacturing domain for diverse Small and Medium-sized Businesses (SMBs) using SpringBoot,Angular,Java.<br>
 * &nbsp;&nbsp;<img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun Fact: I tried to run away from my problems… but Spring Boot auto-configured them back;)<br>
 
 #### 👨🏻‍💻 Languages and Tools <br />
